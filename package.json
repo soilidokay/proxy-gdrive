@@ -16,6 +16,7 @@
     "start": "vercel dev"
   },
   "devDependencies": {
+    "nextjs": "^0.0.3",
     "vercel": "^28.7.2"
   }
 }
