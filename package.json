@@ -13,10 +13,7 @@
   },
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "vercel dev"
+    "start": "node index.js"
   },
-  "devDependencies": {
-    "next": "^13.0.6",
-    "vercel": "^28.7.2"
-  }
+  "devDependencies": {}
 }
